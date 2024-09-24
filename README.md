@@ -4,7 +4,8 @@ Personal portfolio((https://funny-beignet-ebf46d.netlify.app/))
 
 I’m a front-end web developer. I enjoy learning new languages like react and frameworks in the front-end world.
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  
+REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on A social media app 
 - 🌱 I’m currently learning Data structures and algorithms 
