@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Eyob
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+ 👋 Hi, I’m Eyob 
+  I’m a web developer. I enjoy learning new languages and frameworks in the front-end world.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyob543)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning Data structures and algorithms
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me eyobdesalegnworku@gmail.com
 
