@@ -1,6 +1,6 @@
 ### Hi there 👋,my name is Eyob Desalegn
 #### Front-end web development
-Personal portfolio((https://funny-beignet-ebf46d.netlify.app/))
+Personal portfolio((https://eyob-desalegn.netlify.app/))
 
 👋 Hi, I’m a frontend developer passionate about building clean, responsive, and impactful websites using React, Tailwind, and Astro.
 
