@@ -1,15 +1,17 @@
-### Hi there 👋, Eyob Desalegn
+### Hi there 👋,my name is Eyob Desalegn
 #### Front-end web development
 Personal portfolio((https://funny-beignet-ebf46d.netlify.app/))
 
-I’m a front-end web developer. I enjoy learning new languages like react and frameworks in the front-end world.
+👋 Hi, I’m a frontend developer passionate about building clean, responsive, and impactful websites using React, Tailwind, and Astro.
 
 Skills:  
-REACT / JS / HTML / CSS
+REACT / JS / HTML / CSS / ASTRO
 
-- 🔭 I’m currently working on A social media app 
-- 🌱 I’m currently learning Data structures and algorithms 
-- 📫 How to reach me: eyobdesalegnworku@gmail.com 
+- 🔭 I’m currently a freelance web developer and web designer
+- 🌱 I'm also a 5th year Control systems engineering student
+##Contacts
+- Linkedin: https://www.linkedin.com/in/eyob-desalegn-worku-9691b1284/
+- Email: eyobdesalegnworku@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eyob543)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://funny-beignet-ebf46d.netlify.app/)  
